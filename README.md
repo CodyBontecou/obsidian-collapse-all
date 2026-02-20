@@ -11,6 +11,14 @@ An Obsidian plugin that lets you collapse or expand all folders in the file expl
 
 ## Installation
 
+### From Community Plugins
+
+1. Open **Settings → Community Plugins → Browse**
+2. Search for "Collapse All Folders"
+3. Click **Install**, then **Enable**
+
+### Manual Installation
+
 1. Copy `main.js`, `manifest.json`, and `styles.css` into your vault's `.obsidian/plugins/obsidian-collapse-all/` directory.
 2. Enable the plugin in Obsidian's Community Plugins settings.
 
