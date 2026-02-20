@@ -1,0 +1,9 @@
+{
+  "id": "obsidian-collapse-all",
+  "name": "Collapse All Folders",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Collapse or expand all folders in the file explorer with a single command or ribbon icon.",
+  "author": "Cody Bontecou",
+  "isDesktopOnly": false
+}
