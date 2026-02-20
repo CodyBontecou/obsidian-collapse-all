@@ -28,6 +28,11 @@ An Obsidian plugin that lets you collapse or expand all folders in the file expl
 |---|---|---|
 | Auto-collapse on vault open | Off | Automatically collapse all folders when the vault is opened. |
 
+
+## Inspiration
+
+This plugin was built in response to a request by u/PatMcCrotch2011 in [this Reddit thread](https://www.reddit.com/r/ObsidianMD/comments/1r8vw0w/anyone_have_a_plugin_request/) — a one-click collapse all folders command.
+
 ## Author
 
 Cody Bontecou
